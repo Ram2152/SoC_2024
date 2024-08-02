@@ -20,7 +20,7 @@ The following were textbooks for reference:
 __VERY IMPORTANT AGAIN__: It is not needed to learn everything from all the books mentioned above. It is best to follow the Plan devised.
 
 ## Plan
-The plan I followed during my SoC can be found [Here](./Plan.md).
+The plan I followed during my SoC can be found [Here]([https://github.com/sakshamrathi21/](https://github.com/sakshamrathi21/SOC-Conquering_Competitive_Programming/blob/main/README.md)).
 
 ## Conclusion
 Overall, this is a great course/study plan for someone who has no idea what Competitive Programming is (Yea, that was me before taking this course😉).
