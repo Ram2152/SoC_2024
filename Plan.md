@@ -1,12 +1,12 @@
 ## Next Goals (25 July - …)
 
-- Please go through this book: [looking-for-a-challenge-2-en.pdf](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/looking-for-a-challenge-2-en.pdf) (An advanced resource)
+- Please go through this book: [looking-for-a-challenge-2-en.pdf](https://github.com/Ram2152/SoC_2024/blob/main/Resources/looking-for-a-challenge-2-en.pdf) (An advanced resource)
 - You must have left some of the reading material/questions from the previous weeks (because I believe the material was a bit more to be completed in the time provided). You can complete all of this and also the optional material provided. (You might find some repetition in the reading material content, but I am sure you will learn something new from every book.)
-- You can solve these questions: [Additional Questions](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Additional%20Questions.pdf) for your practice.
+- You can solve these questions: [Additional Questions](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Additional%20Questions.pdf) for your practice.
 - Make a habit to appear for Codeforces contests (Adjust your dinner time). Contests are a good platform to provide reality checks.
 - At times you will observe that your rating is stuck in some range, and you are not able to improve much. This acts as a good time to switch to theory revision (or follow new books). Identify the domains where you are lacking the required knowledge and build on them. Also, if you are stuck at let’s say 1400, then pick questions of rating range 1500-1600 and practice on them (Even if you are able to solve them, look at their editorials). Although this feature is already available on codeforces, you can use this [site](https://www.tle-eliminators.com/cp-sheet) too.
 - You can complete the first 9 sections from [CSES](https://cses.fi/problemset/) (many of the problems are already completed). You can even select the relevant problems from the last two sections and solve them.
-- For theory we have the following books: [Competitive Programmer's Handbook](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf), [Guide to Competitive Programming](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf), [Steven](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf) (great book), [Programming Challenges](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/b2-programming_challenges.pdf) and [The Algorithm Design Manual](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/SkienaTheAlgorithmDesignManual.pdf) (more related to algorithm design). You can complete reading all the sections which are not yet done (first two books are almost completed). You can follow other resources too, if you find them interesting. CS213 (DSA) slides are available [CS213](https://www.cse.iitb.ac.in/~akg/courses/2023-ds/). CS218 (DAA) lecture material is available [CS218](https://www.cse.iitb.ac.in/~rgurjar/CS218-2024/).
+- For theory we have the following books: [Competitive Programmer's Handbook](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf), [Guide to Competitive Programming](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf), [Steven](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf) (great book), [Programming Challenges](https://github.com/Ram2152/SoC_2024/blob/main/Resources/b2-programming_challenges.pdf) and [The Algorithm Design Manual](https://github.com/Ram2152/SoC_2024/blob/main/Resources/SkienaTheAlgorithmDesignManual.pdf) (more related to algorithm design). You can complete reading all the sections which are not yet done (first two books are almost completed). You can follow other resources too, if you find them interesting. CS213 (DSA) slides are available [CS213](https://www.cse.iitb.ac.in/~akg/courses/2023-ds/). CS218 (DAA) lecture material is available [CS218](https://www.cse.iitb.ac.in/~rgurjar/CS218-2024/).
 - Some of the problems which I have solved can be found [here](https://github.com/Ram2152/Competitive_Programming).
 
 
@@ -20,9 +20,9 @@
 
 ## Week 8 (18 July - 24 July)
 
-- Complete Chapters 27, 29, 30 from [Competitive Programmer's Handbook](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf). These topics are not much relevant to the core CP algorithms but are often asked in contests.
-- Complete Chapters 13, 15 from [Guide to Competitive Programming](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf).
-- (Optional but recommended, might take some extra time) Complete Chapters 7, 8, 9 from [Steven](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf).
+- Complete Chapters 27, 29, 30 from [Competitive Programmer's Handbook](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf). These topics are not much relevant to the core CP algorithms but are often asked in contests.
+- Complete Chapters 13, 15 from [Guide to Competitive Programming](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf).
+- (Optional but recommended, might take some extra time) Complete Chapters 7, 8, 9 from [Steven](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf).
 - In this week, you are also supposed to complete all the previous problems (if you have anything remaining)
 - If you have some time left, then please solve the optional problems too.
 - ### Questions to be submitted:
@@ -47,18 +47,18 @@
     1. [Yet Another Minimization Problem](https://codeforces.com/problemset/problem/1637/D)			&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://codeforces.com/blog/entry/99883)
     1. [Hot Black Hot White](https://codeforces.com/problemset/problem/1725/H)					&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://codeforces.com/blog/entry/106567)	[<span style="color:orange">\[Code\]](https://github.com/Ram2152/Competitive_Programming/blob/main/1725h.cpp)
     1. [River Locks](https://codeforces.com/contest/1700/problem/D)						&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://codeforces.com/blog/entry/103978)	[<span style="color:orange">\[Code\]](https://github.com/Ram2152/Competitive_Programming/blob/main/1700d.cpp)
-- (Optional) Start solving the questions from [here](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Additional%20Questions.pdf). These problems are miscellaneous. Make sure you start solving them only after you are thorough with the reading material from all the weeks.
+- (Optional) Start solving the questions from [here](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Additional%20Questions.pdf). These problems are miscellaneous. Make sure you start solving them only after you are thorough with the reading material from all the weeks.
 - (Optional) Complete this [contest](https://codeforces.com/contest/1992).				&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://codeforces.com/blog/entry/131461)
 - (Optional) Complete A-E from this [contest](https://codeforces.com/contest/1994).			&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://codeforces.com/blog/entry/131666)
 
 
 ## Week 7 (10 July - 17 July)
 
-- Complete Chapters 9, 26, 28 from [Competitive Programmer's Handbook](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf).
-- Complete Chapters 9, 14 from [Guide to Competitive Programming](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf).
-- (Optional) Chapter 6 from [Steven](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf).
-- (Optional but recommended) Complete Week 6 from [CS213](https://www.cse.iitb.ac.in/~akg/courses/2023-ds/). A detailed version can be found as Chapter 32 from [Introduction to Algorithms](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Introduction%20to%20Algorithms.pdf).
-- You can check the string library functions from [Programming Challenges](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/b2-programming_challenges.pdf).
+- Complete Chapters 9, 26, 28 from [Competitive Programmer's Handbook](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf).
+- Complete Chapters 9, 14 from [Guide to Competitive Programming](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf).
+- (Optional) Chapter 6 from [Steven](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf).
+- (Optional but recommended) Complete Week 6 from [CS213](https://www.cse.iitb.ac.in/~akg/courses/2023-ds/). A detailed version can be found as Chapter 32 from [Introduction to Algorithms](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Introduction%20to%20Algorithms.pdf).
+- You can check the string library functions from [Programming Challenges](https://github.com/Ram2152/SoC_2024/blob/main/Resources/b2-programming_challenges.pdf).
 - ### Questions to be submitted:
     1. [Static Range Sum Queries](https://cses.fi/problemset/task/1646)(w7\_q1.cpp)		&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://www.geeksforgeeks.org/cses-solutions-static-range-sum-queries/)
     1. [Static Range Minimum Queries](https://cses.fi/problemset/task/1647)(w7\_q2.cpp)		&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://github.com/Jonathan-Uy/CSES-Solutions/blob/main/Range%20Queries/Static%20Range%20Minimum%20Queries.cpp)
@@ -90,10 +90,10 @@
 
 ## Week 6 (2 July - 9 July)
 
-- Read Chapters 15,16,17,18,19,20 from [Competitive Programmer's Handbook](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf). These topics are not much relevant to the basic CP questions, but will surely help in case you plan to pursue a Data Structures and Algorithms course in your future. (Core course for CSE, can also be taken under CS Minor)
-- Complete Chapters 7 and 10 from [Guide to Competitive Programming](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf).
-- (Optional) Read Week-13 and week-14 material from [CS213](https://www.cse.iitb.ac.in/~akg/courses/2023-ds/). If you are too much interested in Graph Theory, then please read Chapters 21, 22, 23, 24, 25 from [Introduction to Algorithms](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Introduction%20to%20Algorithms.pdf) (Too much to be done in a week, you can maybe read the relevant sections, and as and when you get time, complete the others. Solutions to this book can be found at [CLRS Solutions](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/CLRS%20Solutions%203rd%20Ed..pdf).)
-- (Optional) Complete Chapter 7 from [Algorithm Design](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Algorithm%20Design%20(J.%20Kleinberg%2C%20E.%20Tardos).pdf) (Not much relevant to CP, but has great practical applications).
+- Read Chapters 15,16,17,18,19,20 from [Competitive Programmer's Handbook](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf). These topics are not much relevant to the basic CP questions, but will surely help in case you plan to pursue a Data Structures and Algorithms course in your future. (Core course for CSE, can also be taken under CS Minor)
+- Complete Chapters 7 and 10 from [Guide to Competitive Programming](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf).
+- (Optional) Read Week-13 and week-14 material from [CS213](https://www.cse.iitb.ac.in/~akg/courses/2023-ds/). If you are too much interested in Graph Theory, then please read Chapters 21, 22, 23, 24, 25 from [Introduction to Algorithms](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Introduction%20to%20Algorithms.pdf) (Too much to be done in a week, you can maybe read the relevant sections, and as and when you get time, complete the others. Solutions to this book can be found at [CLRS Solutions](https://github.com/Ram2152/SoC_2024/blob/main/Resources/CLRS%20Solutions%203rd%20Ed..pdf).)
+- (Optional) Complete Chapter 7 from [Algorithm Design](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Algorithm%20Design%20(J.%20Kleinberg%2C%20E.%20Tardos).pdf) (Not much relevant to CP, but has great practical applications).
 - ### Questions to be submitted:
     1. [Art Gallery on Graph](https://atcoder.jp/contests/abc305/tasks/abc305_e) (w6\_q1.cpp)			&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://atcoder.jp/contests/abc305/editorial/6551)
     1. [Round Trip](https://cses.fi/problemset/task/1669) (w6\_q2.cpp)				&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://www.rishabhxchoudhary.study/blog/cses-graph-editorals) (Scroll Down)
@@ -122,9 +122,9 @@
 ## Week 5 (27 June - 1 July)
 
 - Complete all the reading material/questions from the previous weeks (if you have anything left).
-- Read Chapters 11,12,13,14 from [Competitive Programmer's Handbook](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf?usp=sharing).
-- Read sections 7.1, 7.2 and 10.1 from [Guide to Competitive Programming](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf?usp=sharing).
-- (Optional) Read Chapter 20 from [Introduction to Algorithms](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Introduction%20to%20Algorithms.pdf). Read Week-11 and Week-12 material from [CS213](https://www.cse.iitb.ac.in/~akg/courses/2023-ds/).
+- Read Chapters 11,12,13,14 from [Competitive Programmer's Handbook](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf?usp=sharing).
+- Read sections 7.1, 7.2 and 10.1 from [Guide to Competitive Programming](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf?usp=sharing).
+- (Optional) Read Chapter 20 from [Introduction to Algorithms](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Introduction%20to%20Algorithms.pdf). Read Week-11 and Week-12 material from [CS213](https://www.cse.iitb.ac.in/~akg/courses/2023-ds/).
 - This week will be kept as a buffer for you to manage previous incomplete work. Remember that you should complete the practice questions also by yourself. Even if you were forced to see the solutions, solve them again by yourself. 
 - This week, there are only three problems to be submitted. If you have time, then before moving to Week6, please complete the Optional Questions also.
 - ### Questions to be submitted:
@@ -158,11 +158,11 @@
 
 ## Week 4 (19 June - 26 June)
 
-- Read Chapters 21,22,23,24,25 from [Competitive Programmer's Handbook](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf?usp=sharing).
-- Go through Chapter 11 from [Guide to Competitive Programming](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf?usp=sharing).
-- (Optional) Read Chapter 31 from [Introduction to Algorithms](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Introduction%20to%20Algorithms.pdf).
-- (Optional) Complete Chapter 5 from [Steven](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf).
-- (Optional) Complete Chapters 6 and 7 from [Programming Challenges](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/b2-programming_challenges.pdf).
+- Read Chapters 21,22,23,24,25 from [Competitive Programmer's Handbook](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf?usp=sharing).
+- Go through Chapter 11 from [Guide to Competitive Programming](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf?usp=sharing).
+- (Optional) Read Chapter 31 from [Introduction to Algorithms](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Introduction%20to%20Algorithms.pdf).
+- (Optional) Complete Chapter 5 from [Steven](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf).
+- (Optional) Complete Chapters 6 and 7 from [Programming Challenges](https://github.com/Ram2152/SoC_2024/blob/main/Resources/b2-programming_challenges.pdf).
 - Just for the sake of interest, if you enjoy probability puzzles, then you can use this [site](https://brainstellar.com/puzzles). This [playlist](https://youtube.com/playlist?list=PLJicmE8fK0EiFRt1Hm5a_7SJFaikIFW30&si=rwbt0v9eon69XMGl) is also quite interesting.
 - ### Questions to be submitted:
     1. [Exponentiation II](https://cses.fi/problemset/task/1712) (w4\_q1.cpp)		&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://www.geeksforgeeks.org/cses-solutions-exponentiation-ii/)
@@ -193,10 +193,10 @@
 
 ## Week 3 (10 June - 18 June)
 
-- Read Chapters 6, 7 and 10 from [Competitive Programmer's Handbook](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf?usp=sharing).
-- Read Chapter 6 from [Guide to Competitive Programming](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf?usp=sharing).
-- If you have time, then please read Chapters 4 and 6 from [Algorithm Design](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Algorithm%20Design%20(J.%20Kleinberg%2C%20E.%20Tardos).pdf). It is a great resource for greedy-dp. A shorter version can be found [CS218](https://www.cse.iitb.ac.in/~rgurjar/CS218-2024/). Another resource: [Chapters 14-15](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Introduction%20to%20Algorithms.pdf?usp=sharing). These techniques are widely used in a variety of questions. So, better to read and practice as much as you can!
-- If you are unable to understand DP through the above resources, then you can watch these [videos](https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLZES21J5RvsHOeSW9Vrvo0EEc2juNe3tX) (maybe the starting 2-3 at 2X). You can also study Chapter 11 from [Programming Challenges](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/b2-programming_challenges.pdf).
+- Read Chapters 6, 7 and 10 from [Competitive Programmer's Handbook](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf?usp=sharing).
+- Read Chapter 6 from [Guide to Competitive Programming](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf?usp=sharing).
+- If you have time, then please read Chapters 4 and 6 from [Algorithm Design](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Algorithm%20Design%20(J.%20Kleinberg%2C%20E.%20Tardos).pdf). It is a great resource for greedy-dp. A shorter version can be found [CS218](https://www.cse.iitb.ac.in/~rgurjar/CS218-2024/). Another resource: [Chapters 14-15](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Introduction%20to%20Algorithms.pdf?usp=sharing). These techniques are widely used in a variety of questions. So, better to read and practice as much as you can!
+- If you are unable to understand DP through the above resources, then you can watch these [videos](https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLZES21J5RvsHOeSW9Vrvo0EEc2juNe3tX) (maybe the starting 2-3 at 2X). You can also study Chapter 11 from [Programming Challenges](https://github.com/Ram2152/SoC_2024/blob/main/Resources/b2-programming_challenges.pdf).
 - ### Questions to be submitted:
     1. [Tasks and Deadlines](https://cses.fi/problemset/task/1630) (w3\_q1.cpp)		&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://www.geeksforgeeks.org/cses-solutions-tasks-and-deadlines/)
     1. [Factory Machines](https://cses.fi/problemset/task/1620) (w3\_q2.cpp)		&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://usaco.guide/problems/cses-1620-factory-machines/solution)
@@ -226,9 +226,9 @@
 ## Week 2 (3 June - 9 June)
 
 - Go through [C++ sort](https://www.geeksforgeeks.org/sort-c-stl/) function.
-- Read Chapter 5 and Chapter 8 from this [Competitive Programmer's Handbook](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf?usp=sharing).
-- Go through Chapters 4-5 and 8 from this [Guide to Competitive Programming](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf?usp=sharing).
-- Please read this [document](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Some%20Techniques.pdf) for some common techniques.
+- Read Chapter 5 and Chapter 8 from this [Competitive Programmer's Handbook](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf?usp=sharing).
+- Go through Chapters 4-5 and 8 from this [Guide to Competitive Programming](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Guide%20to%20Competitive%20Programming.pdf?usp=sharing).
+- Please read this [document](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Some%20Techniques.pdf) for some common techniques.
 - ### Questions to be submitted:
     1. [Playlist](https://cses.fi/problemset/task/1141) (w2\_q1.cpp)			    	&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://www.geeksforgeeks.org/cses-solutions-playlist/)
     1. [Sum of Two Values](https://cses.fi/problemset/task/1640) (w2\_q2.cpp)		&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://usaco.guide/problems/cses-1640-sum-of-two-values/solution) (See both of them)	
@@ -247,7 +247,7 @@
     1. [Sliding Window Median](https://cses.fi/problemset/task/1076)				&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://usaco.guide/problems/cses-1076-sliding-median/solution)
     1. [Sliding Window Cost](https://cses.fi/problemset/task/1077)					&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://usaco.guide/problems/cses-1077-sliding-cost/solution)
     1. [Fun Problem](https://codeforces.com/contest/1764/problem/G2) (You can maybe read its tutorial.)	&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://codeforces.com/blog/entry/109468)
-- Optional: Read Chapter-5 of this [Algorithm Design](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Algorithm%20Design%20(J.%20Kleinberg%2C%20E.%20Tardos).pdf).
+- Optional: Read Chapter-5 of this [Algorithm Design](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Algorithm%20Design%20(J.%20Kleinberg%2C%20E.%20Tardos).pdf).
 
 
 
@@ -264,11 +264,11 @@
 
 ## Week 1 (26 May - 2 June)
 
-- Complete reading the first 4 chapters from [Competitive Programmer's Handbook](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf?usp=drive_link).
+- Complete reading the first 4 chapters from [Competitive Programmer's Handbook](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Competitive%20Programmer_s%20Handbook.pdf?usp=drive_link).
 - Create your accounts on [CSES](https://cses.fi/), [Codeforces](https://codeforces.com/), [Codechef](https://www.codechef.com/) and [Leetcode](https://leetcode.com/).
 - If you wish to study any of the data structures in detail, then please use this [link](https://www.cse.iitb.ac.in/~akg/courses/2023-ds/). But I believe you will be able to pick up all the data structures knowledge as you will move forward. So, no need to memorize stuff, you will be able to learn through practice.
 - Go through your CS101 slides or the link for basic algorithms such as [binary search](https://cp-algorithms.com/num_methods/binary_search.html), and sorting algorithms.
-- Then read this [document ](https://github.com/Ram2152/SOC-Conquering_Competitive_Programming/blob/main/Resources/Basic%20Info.pdf)thoroughly. If you have any questions on this document, please feel free to ask in the group. 
+- Then read this [document ](https://github.com/Ram2152/SoC_2024/blob/main/Resources/Basic%20Info.pdf)thoroughly. If you have any questions on this document, please feel free to ask in the group. 
 - You need to submit only the first set of the following questions in your corresponding folder. Also, your code should pass all the testcases present on either CSES or Codeforces.
 - ### Questions to be submitted:
     1. [Missing Number](https://cses.fi/problemset/task/1083) (w1\_q1.cpp)		&nbsp;&nbsp; &nbsp;&nbsp; [<span style="color:red"><b>\[Solution\]</b></span>](https://www.geeksforgeeks.org/missing-number-cses/)
